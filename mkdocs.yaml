@@ -1,0 +1,8 @@
+site_name: "jan-app"
+site_description: "Documentation for jan-app"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
